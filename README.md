@@ -2,7 +2,7 @@
 
 Mangosta for Android is an open source, open standard, XMPP/Jabber client.
 
-It is designed to be a technology demonstration: it is not available on the Play Store, F-Droid or any other app store. You can install it as you wish.
+It is designed as a technology demonstration: it is not available on the Play Store, F-Droid or any other app store. You can install it as you wish.
 
 Mangosta for Android is part of the [MongooseIM platform](https://github.com/esl/MongooseIM).
 
@@ -23,5 +23,5 @@ It includes unit tests and UI tests (using Espresso).
 * **master** branch: only XMPP
 * **use.mongoose.rest.api** branch: XMPP + some features using the MongooseIM REST API
 
-Feel free to comment, we will be glad to hear from your uses.
+Feel free to comment, we will be glad to hear from you about your usecases.
 You can [report issues](https://github.com/esl/mangosta-android/issues) and/or [contribute](https://github.com/esl/mangosta-android/pulls).
